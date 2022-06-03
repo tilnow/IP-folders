@@ -1,0 +1,1 @@
+we want IP documents to always have a place. when in doubt, place them here until you have time to find the correct folder for them. also used for documents you are working on.

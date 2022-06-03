@@ -1,0 +1,1 @@
+here store documents that describe what copyrights the company has and why they are important.

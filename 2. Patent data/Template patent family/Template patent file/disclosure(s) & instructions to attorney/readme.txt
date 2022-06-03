@@ -1,0 +1,1 @@
+here go copies of disclosures, disclosure forms, etc. and instructions you send to your patent attorney. it is your job to ensure they do what you asked and did not forget anything.

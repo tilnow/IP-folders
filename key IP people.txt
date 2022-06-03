@@ -7,3 +7,6 @@ here you should have a list of the key IP people and their contact details:
 5. legal advisors relating to IP sections of contracts
 6. any external IP manager
 7. if you license important IP - contact person(s) at licensor, licensee, as relevant
+8. if you have a separate renewals provider
+9. if you have a separate patent paralegal provider
+10. if you have a patent search provider.

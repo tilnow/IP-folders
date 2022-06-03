@@ -1,0 +1,1 @@
+in this folder you have copies of prior art (not links) and also notes explaining relevance and which part to consider and also, perhaps other notes, such as misunderstandings.

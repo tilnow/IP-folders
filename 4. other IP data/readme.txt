@@ -1,0 +1,1 @@
+IP which is not patents is handled in this folder set. there are additional types of IP, such as plant breeders rights. create folders as needed, please.

@@ -1,3 +1,5 @@
-what is it for
-what is in spec
+a placeholder for a file which tells something about the patent family:
+what is it for - why was this family filed - what goal is it meant to achieve
+what is in spec - a disclosure often has more than one idea in it as well as many interesting details.
 what countries do we care about and why
+What lessons can we learn from one member of the family to other members of the family
