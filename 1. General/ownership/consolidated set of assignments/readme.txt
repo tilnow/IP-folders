@@ -1,0 +1,1 @@
+Assignments should be stored with the patent files. BUT i recommend having a consolidated copy here, it helps with due diligence.

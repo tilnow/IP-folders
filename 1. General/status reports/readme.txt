@@ -1,0 +1,2 @@
+unless and until your IP attorney has an online portal where you can see the status of all your files, you probably get status reports. keep a copy here. while always outdated, they are a good starting point.
+and if you do have an IP portal, regularly generate status reports and store them here.

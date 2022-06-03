@@ -1,0 +1,2 @@
+Some IP activities are performed at a lower frequency, for example, an IP audit of the company's IP and review of IP strategy and budget.
+This folder stores templates and instructions for such activities (you provide).

@@ -1,0 +1,1 @@
+here you put monthly procedures. as an example, i have a folder for tracking data brought up to a patent committee, which could meet, for example, on a monthly basis 

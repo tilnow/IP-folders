@@ -1,0 +1,1 @@
+a patent committee is a management tool used for making IP-related decisions. it includes IP people but usually also management, R&D, marketing, budget and/or bizdev people, to make better informed decisions. in order for it to work well, it helps if there is a clear agenda, with supporting material. provided ahead of time :)

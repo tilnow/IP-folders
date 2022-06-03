@@ -1,0 +1,1 @@
+here we store documents you can use for common situations which include an IP component. for example "deciding if to draft a patent application", "writing a patent disclosure", etc.

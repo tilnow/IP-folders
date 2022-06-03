@@ -1,0 +1,1 @@
+Suppliers often create IP (or are paid to). so contracts with suppliers should always  have a section on ownership of IP. this folder is for them.

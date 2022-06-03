@@ -1,0 +1,1 @@
+in this folder we keep a copy of all documents relating to ownership. this includes actual assignments, but also contracts which include a clause relating to assignment

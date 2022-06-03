@@ -1,0 +1,1 @@
+This folder is for IP related activities you should do every week, for example, the 20 min IP hygiene tool or regular harvesting of ideas from R&D and marketing and needs from bizdev.

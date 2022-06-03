@@ -1,0 +1,1 @@
+in this folder we keep a copy of license agreements (in or out).

@@ -1,0 +1,1 @@
+when you talk to somebody seriously enough to require an NDA, there is a risk of IP creation. who will own it? if your NDA says something (it should...), put a copy in this folder.

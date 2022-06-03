@@ -1,0 +1,1 @@
+Employees create IP. so contracts with employees should always have a section on ownership of IP. this folder is for them.

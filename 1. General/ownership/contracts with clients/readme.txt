@@ -1,0 +1,1 @@
+clients can also create IP. so contracts with clients should often have a section on ownership of IP. this folder is for them.
