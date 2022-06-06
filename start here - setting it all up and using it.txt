@@ -14,7 +14,7 @@ it helps organize the work. IP involves a lot of correspondence - some of which 
 
 IP needs at least weekly attention. consider using the IP hygiene tool to help you (under procedures/weekly)
 
-any incoming document should have two things done with it:
+any incoming document should have three things done with it:
 (i) go into correct folder or at least "IP docs in process"
 (ii) if it has any due date involved, be listed in "the future" in a document (spreadsheet?) tracking due dates
 (iii) if costs involved, put in "the future" under "budget"
