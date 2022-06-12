@@ -1,0 +1,1 @@
+list of opputunities to create IP or use IP to really leverage business

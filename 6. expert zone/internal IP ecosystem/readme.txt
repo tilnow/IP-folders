@@ -1,0 +1,1 @@
+this folder includes a map of the company ands its consultants and shows how IP is created, used and flows in the company (sometimes being damaged) 

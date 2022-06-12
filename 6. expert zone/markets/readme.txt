@@ -1,0 +1,1 @@
+here we collect information about the markets to be created/grown/controlled/lived in using IP

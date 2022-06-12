@@ -1,0 +1,1 @@
+here we store searches against patents etc. of a competitor

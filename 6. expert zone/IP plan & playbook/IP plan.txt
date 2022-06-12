@@ -1,1 +1,2 @@
-placeholder for a file showing teh IP plan for X time ahead
+placeholder for a file showing the IP plan for X time ahead.
+not relevant for all companies. results from  a strategy.

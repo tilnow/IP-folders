@@ -1,0 +1,1 @@
+here we keep copies of searches, patentability opinions (on own ideas), whitespace maps, etc.

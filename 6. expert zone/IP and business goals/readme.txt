@@ -1,0 +1,1 @@
+since IP exists to support, inform and suggets business goals, we need to track the relationship between them

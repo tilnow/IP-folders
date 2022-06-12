@@ -1,0 +1,1 @@
+in this folder will be details of complaints and other types of nasty letters regarding IP issues, like ownership, inventorship, infringment, validity, etc.

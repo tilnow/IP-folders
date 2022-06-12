@@ -1,0 +1,2 @@
+here we list IP risks = risks to the IP - that we might not obtain, that it might be expensive, that we might not own, etc. these risks need to be managed by the IP manager.
+where the risk to Ip also causes an outsized business risk, this should be noted in the "business risks mediated by IP" folder
