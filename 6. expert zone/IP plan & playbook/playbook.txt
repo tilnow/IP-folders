@@ -1,0 +1,1 @@
+playbook for file or files including IP plays - we do not knwo if and when they will be needed, but we can say what to do if they will. may include pattern-response pairs

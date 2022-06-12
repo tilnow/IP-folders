@@ -1,0 +1,1 @@
+some companies find it easier to arrange IP work by project. in this folder you decsribe the IP and plans for each such project.
