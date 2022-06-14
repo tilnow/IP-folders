@@ -1,5 +1,6 @@
 placeholder for the IP strategy (whatever that means)
 should also explain what type of strategy and how it matches market dynamics - predictability, controllability & risk (consider cynfin matrix and yourstrategyneedsastrategy)
 at same time, what is your appetite for risk and failure?
+what is weakness of strategy, blind spots?
 
 finally, what strategies (plural) are being used
