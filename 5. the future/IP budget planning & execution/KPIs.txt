@@ -1,0 +1,1 @@
+placeholder for various KPIs (and other budget related metrics), as they relate to money. for example, what is expected return on investment in IP; what is size of item that needs deeper audit, variance between expected and actual cost, etc.
