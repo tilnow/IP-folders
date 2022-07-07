@@ -1,0 +1,1 @@
+here we put things like products we think might be infringing and should looked into a bit more, or competitors we might want to sue one day
